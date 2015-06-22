@@ -128,6 +128,7 @@
     <Content Include="Scripts\modernizr-2.6.2.js" />
     <Content Include="For_2nd-branch.txt" />
     <Content Include="2nd-commit_for1st-brunch.txt" />
+    <Content Include="1st-commit_rebase_master.txt" />
     <Content Include="TextFile5_for1st_brunch.txt" />
     <Content Include="TextFile2.txt" />
     <Content Include="Web.config">
