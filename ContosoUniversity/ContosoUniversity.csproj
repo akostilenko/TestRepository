@@ -186,6 +186,7 @@
     <Compile Include="Models\Enrollment.cs" />
     <Compile Include="Models\Student.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="remotes\mybranch_1.cs" />
     <Compile Include="remotes\Class1.cs" />
     <Compile Include="remotes\master2nd.cs" />
     <Compile Include="remotes\okostilenko_master.cs" />
