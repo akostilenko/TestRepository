@@ -1,2 +1,2 @@
-1st-commit_rebase_master﻿+ rebase-1st-branch
+1st-commit_rebase_master﻿+ rebase-1st-branch+userkosa_secondcommit
 
