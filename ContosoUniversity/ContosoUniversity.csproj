@@ -187,6 +187,7 @@
     <Compile Include="Models\Student.cs" />
     <Compile Include="remotes\mybranch\mybranch.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="remotes\mybranch-child1\mybranch-child1.cs" />
     <Compile Include="remotes\mybranch_1.cs" />
     <Compile Include="remotes\Class1.cs" />
     <Compile Include="remotes\master2nd.cs" />
