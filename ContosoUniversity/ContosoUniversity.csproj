@@ -189,6 +189,7 @@
     <Compile Include="remotes\Class1.cs" />
     <Compile Include="remotes\master2nd.cs" />
     <Compile Include="remotes\okostilenko_master.cs" />
+    <Compile Include="user_kosa_1st\Class1.cs" />
     <Compile Include="ViewModels\AssignedCourseData.cs" />
     <Compile Include="ViewModels\InstructorIndexData.cs" />
     <Compile Include="ViewModels\EnrollmentDateGroup.cs" />
